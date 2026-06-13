@@ -1,3 +1,1 @@
-Hello Git
-Git eshte i fuqishem
-Ndryshim ne feature branch
+MASTER VERISON
